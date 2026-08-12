@@ -126,17 +126,19 @@ class Anoop:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aniopyadav7379-cloud&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1f1f2e&title_color=00C853&icon_color=00C853&text_color=c9d1d9&ring_color=00C853&count_private=true&include_all_commits=true&border_radius=12" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aniopyadav7379-cloud&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1f1f2e&title_color=00C853&icon_color=00C853&text_color=c9d1d9&ring_color=00C853&count_private=true&include_all_commits=true&border_radius=12" height="165" />
+
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniopyadav7379-cloud&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1f1f2e&title_color=00C853&text_color=c9d1d9&border_radius=12" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniopyadav7379-cloud&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1f1f2e&title_color=00C853&text_color=c9d1d9&border_radius=12" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniopyadav7379-cloud&theme=midnight-purple&hide_border=true&background=1f1f2e&ring=00C853&fire=00C853&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C853&sideLabels=00C853&dates=8b949e&border_radius=12" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=aniopyadav7379-cloud&theme=midnight-purple&hide_border=true&background=1f1f2e&ring=00C853&fire=00C853&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C853&sideLabels=00C853&dates=8b949e&border_radius=12" width="500" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniopyadav7379-cloud&bg_color=1f1f2e&color=00C853&line=00C853&point=ffffff&area_color=00C853&area=true&hide_border=true&radius=12" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniopyadav7379-cloud&bg_color=1f1f2e&color=00C853&line=00C853&point=ffffff&area_color=00C853&area=true&hide_border=true&radius=12" width="96%" />
 
 </div>
 
@@ -146,9 +148,10 @@ class Anoop:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aniopyadav7379-cloud&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aniopyadav7379-cloud&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" />
 
 </div>
+
 
 ---
 
