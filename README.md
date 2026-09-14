@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right-center" alt="coding gif" width="360" height="150" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding gif" width="360"  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## ⚙️ Hey, I'm Anoop!
 
