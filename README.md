@@ -18,8 +18,7 @@
 
 ---
 
-<img align="right" alt="coding gif" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW90Ynh6b3N5ZHZ0N3R3cmMxcmcxN3VnN3R0eDR5Ym10bnd6cmZmdCZlcD12MV9pbnRlcmlhbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif
-"/>
+<img align="right" alt="coding gif" width="360" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## ⚙️ Hey, I'm Anoop!
 
